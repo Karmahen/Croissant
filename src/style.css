@@ -1,0 +1,22 @@
+body {
+  background-color: #f8e8a6;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  padding: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+.croissant-photo {
+  border-radius: 20px;
+  max-width: 500px;
+  display: block;
+  margin: 20px auto;
+}
